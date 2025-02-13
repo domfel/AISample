@@ -1,0 +1,13 @@
+﻿.bot-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.centered-statement {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 20px;
+}

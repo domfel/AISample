@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursorProjects", "CursorProjects.csproj", "{45AD3278-41F2-45A0-900C-488A1C467F43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{596B9528-CFD8-4A42-8A4B-7975B59FF429}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45AD3278-41F2-45A0-900C-488A1C467F43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45AD3278-41F2-45A0-900C-488A1C467F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45AD3278-41F2-45A0-900C-488A1C467F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45AD3278-41F2-45A0-900C-488A1C467F43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{596B9528-CFD8-4A42-8A4B-7975B59FF429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{596B9528-CFD8-4A42-8A4B-7975B59FF429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{596B9528-CFD8-4A42-8A4B-7975B59FF429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{596B9528-CFD8-4A42-8A4B-7975B59FF429}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B313FF1-0C7A-4FE4-A7F7-DE87C8A588AD}
+	EndGlobalSection
+EndGlobal
